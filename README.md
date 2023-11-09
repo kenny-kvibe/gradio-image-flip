@@ -1,4 +1,4 @@
-# [gradio-image](https://github.com/kenny-kvibe/gradio-image-flip)
+# [gradio-image-flip](https://github.com/kenny-kvibe/gradio-image-flip)
 
 > Run a Gradio Web-UI to flip an image horizontally, vertically or by color.
 
