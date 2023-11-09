@@ -10,6 +10,8 @@
 pip install -r requirements.txt
 ```
 
+---
+
 ### Usage
 
 1. Open a terminal and run command:
