@@ -28,7 +28,7 @@ http://127.0.0.1:7860
 
 # Preview
 
-![img](img/preview.png)
+![Preview Image](img/preview.png)
 
 ---
 
