@@ -26,4 +26,10 @@ http://127.0.0.1:7860
 
 ---
 
+# Preview
+
+![img](img/preview.png)
+
+---
+
 <sub><u>UPDATED</u>: 09.Nov.2023</sub>
