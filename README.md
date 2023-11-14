@@ -17,10 +17,10 @@ pip install -r gradio-image-flip/requirements.txt
 
 ### Usage
 
-1. Open a terminal and run command:
+1. Open a terminal in the `gradio-image-flip` folder and run command:
 
 ```sh
-python gradio-image-flip/main.py
+python main.py
 ```
 
 2. Open a browser and enter URL:
