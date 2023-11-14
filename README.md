@@ -2,12 +2,15 @@
 
 > Run a Gradio Web-UI to flip an image horizontally, vertically or by color.
 
+---
+
 ### Installation
 
-*Requires Python 3*
+*Requires [Python 3](https://www.python.org/downloads/)*
 
 ```sh
-pip install -r requirements.txt
+git clone https://github.com/kenny-kvibe/gradio-image-flip.git
+pip install -r gradio-image-flip/requirements.txt
 ```
 
 ---
@@ -17,7 +20,7 @@ pip install -r requirements.txt
 1. Open a terminal and run command:
 
 ```sh
-python main.py
+python gradio-image-flip/main.py
 ```
 
 2. Open a browser and enter URL:
